@@ -26,17 +26,6 @@
     <li>Visual Studio</li>
 </ul>
 
-<h2>Games I Love</h2>
-<p>I'm not just a code wizard! In my free time, you can find me enjoying these awesome games!</p>
-
-<ul>
-  <li>Minecraft</li>
-  <li>War Thunder</li>
-  <li>Valorant</li>
-  <li>Fortnite</li>
-  <li>Foxhole</li>
-</ul>
-
 <h2>What You'll Find Here</h2>
 <p>This GitHub page is a reflection of my coding journey and creativity. While my main projects are nestled within my repositories, this profile serves as a delightful gateway into my world...</p>
 
